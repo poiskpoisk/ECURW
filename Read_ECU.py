@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 __author__ = 'АМА'
 
-# Должен быть обязательео 64 bit Python иначе windll даст ошибку !!!!!!!!!!
+# Должен быть обязательно 64 bit Python, иначе windll даст ошибку !!!!!!!!!!
 
 from PCANBasic import *  # PCAN-Basic library import
 import time
